@@ -1,7 +1,7 @@
 Сделал по видео урокам
 
 Стек 
-PHP - 8^
+PHP - 8^ \n
 MySQL - 5.7^
 HTML CSS (bootstrap)
 JS (Adminlite CKeditor CKfinder) - тут не чего не писал сам ток в конфиге указал пути и доступы 
